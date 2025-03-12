@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 } finally {
 out.write(”aString”);
 ResultSet rs = ps.executeQuery();
