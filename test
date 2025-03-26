@@ -1,3 +1,4 @@
+if (out != null) {
 // error processing code
 Class.forName(driverClass);
 public void fetch() throws SQLException, IOException
